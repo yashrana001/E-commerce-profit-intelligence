@@ -1,0 +1,18 @@
+{
+  "name": "Profit Intelligence",
+  "dataColors": ["#1F77B4", "#2CA02C", "#D62728", "#FF7F0E", "#9467BD", "#8C564B", "#17BECF", "#7F7F7F"],
+  "background": "#FFFFFF",
+  "foreground": "#252423",
+  "tableAccent": "#1F77B4",
+  "good": "#2CA02C",
+  "bad": "#D62728",
+  "neutral": "#FF7F0E",
+  "textClasses": {
+    "title": { "fontFace": "Segoe UI Semibold", "fontSize": 14, "color": "#252423" },
+    "label": { "fontFace": "Segoe UI", "fontSize": 10, "color": "#605E5C" },
+    "callout": { "fontFace": "Segoe UI Semibold", "fontSize": 28, "color": "#252423" }
+  },
+  "visualStyles": {
+    "*": { "*": { "title": [{ "show": true }], "border": [{ "show": false }] } }
+  }
+}
