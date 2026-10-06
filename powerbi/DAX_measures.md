@@ -1,4 +1,4 @@
-# DAX: date table, calculated tables and measures
+# DAX: date table, calculated tables and measures.   # powerbi not work in macos :(
 
 Load these files from `data/processed/` (Get Data → Text/CSV):
 
